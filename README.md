@@ -9,8 +9,11 @@
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GeoXTen&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeoXTen&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GeoXTen&theme=radical" alt="GitHub contribution summary"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=GeoXTen&theme=radical&hide_border=true" height="195" alt="GitHub streak stats"/>
 </p>
 
 ---
