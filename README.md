@@ -1,19 +1,7 @@
-﻿<h1 align="center">Hey, I'm <b>GEO X TEN</b>
-
-`
-  ████████╗ ██████╗  █████╗  ██████╗██╗  ██╗
-     ██╔══╝██╔════╝ ██╔══██╗██╔════╝██║ ██╔╝
-     ██║   ██║  ███╗███████║██║     █████╔╝
-     ██║   ██║   ██║██╔══██║██║     ██╔═██╗
-     ██║   ╚██████╔╝██║  ██║╚██████╗██║  ██╗
-     ╚═╝    ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
-              X   T   E   N
-`
+<h1 align="center">Hey, I'm GEO X TEN</h1>
 
 <p align="center">
-  <b>geo.devs.surf</b> · Chrome Extensions and Discord Bots<br/>
-  JavaScript · HTML · Node.js · Indonesia<br/>
-  958+ contributions this year
+<a href="https://geo.devs.surf/">geo.devs.surf</a> | Chrome Extensions & Discord Bots | JavaScript, HTML, Node.js | Indonesia
 </p>
 
 ---
